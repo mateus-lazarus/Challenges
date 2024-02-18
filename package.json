@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "chai": "^5.0.3"
+  }
+}
